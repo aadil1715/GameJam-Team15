@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Fields of Ice.wav-fedd5dfe7fe86480c8e3436584aa15d0.sample"
+
+[deps]
+
+source_file="res://assets/Fields of Ice.wav"
+dest_files=[ "res://.import/Fields of Ice.wav-fedd5dfe7fe86480c8e3436584aa15d0.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
