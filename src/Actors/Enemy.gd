@@ -23,5 +23,5 @@ func _on_StompArea2D_area_entered(area: Area2D) -> void:
 
 
 func die() -> void:
-	PlayerData.score += score
+	PlayerData.score += ""
 	queue_free()
