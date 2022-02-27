@@ -37,6 +37,9 @@ position = Vector2( 200, 760 )
 [node name="Camera2D" parent="Player" index="0"]
 limit_right = 7760
 
+[node name="Sprite" parent="Player" index="1"]
+frame = 0
+
 [node name="Portal2D" parent="." instance=ExtResource( 5 )]
 position = Vector2( 7558, 154 )
 next_scene = ExtResource( 6 )
